@@ -54,6 +54,9 @@ This includes creating Dashboard from different interactive charts to effectivel
 
 ![image](https://github.com/vaibhav7073/Pizza-Sales-Analysis/assets/131877087/2b5789f8-68ff-4fd7-b845-41411317f9d8)
 
+![image](https://github.com/vaibhav7073/Pizza-Sales-Analysis/assets/131877087/08dcd1dd-b331-42f6-be99-73ecacf2eb6a)
+
+
 
 ----Result----
 
